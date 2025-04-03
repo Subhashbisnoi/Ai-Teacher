@@ -1,6 +1,9 @@
 # AI Teacher App 🤖📚
 
 AI Teacher App is a Streamlit-based application that generates quiz questions from uploaded PDFs. The app uses AI to extract text from the document, generate questions, and assess user answers based on similarity scoring.
+![AI Teacher Screenshot](https://github.com/Subhashbisnoi/Ai-Teacher/blob/master/Screenshot.png)
+
+## 🌐 [Live Demo](https://subhashbisnoi-ai-teacher-teacher-ldgttg.streamlit.app/)
 
 ## Features ✨
 - 📄 Upload a PDF file for analysis  
